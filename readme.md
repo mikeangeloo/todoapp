@@ -5,5 +5,5 @@
 
 <p>Developed by:</p>
 <p><b>Name:</b> Miguel Angel Ramírez López</p>
-<p><b>Email:</b>ing.miguelangel.rl@gmail.com</p>
-<p><b>Facebook:</b>https://www.facebook.com/miguel.ramilopez</p>
+<p><b>Email:</b> ing.miguelangel.rl@gmail.com</p>
+<p><b>Linkedin:</b> www.linkedin.com/in/miguelangelramirez87</p>
